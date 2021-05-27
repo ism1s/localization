@@ -2,9 +2,6 @@
     "appstore.app.description": {
         "translation": "Lokalise is a free service, that lets you manage and edit strings and translations of your app, game or website – either on your own or with a team of collaborators. Built for developers, Lokalise includes original features like export webhooks and custom archive bundle structure, so you can easily integrate it with your website or app and update translations in real time."
     },
-    "key.via.github": {
-        "translation": "key added from github"
-    },
     "index.placeholder": {
         "translation": "The editor has validations that are applied for every string that is saved. Try to translate this string without the %s placeholder and you will see."
     },
