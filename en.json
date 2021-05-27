@@ -5,6 +5,9 @@
     "index.untranslated_yet": {
         "translation": "Enter your email here"
     },
+    "additional.key": {
+        "translation": "additional key"
+    },
     "index.placeholder": {
         "translation": "The editor has validations that are applied for every string that is saved. Try to translate this string without the %s placeholder and you will see."
     },
