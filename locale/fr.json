@@ -1,0 +1,20 @@
+{
+    "appstore.app.description": "Lokalise est un service gratuit, qui vous permet de gérer et de modifier les chaînes et les traductions de votre application, jeu ou site Web, seul ou avec une équipe de collaborateurs. Conçu pour les développeurs, Lokalise inclut des fonctionnalités originales telles que des webhooks d'exportation et une structure de bundle d'archives personnalisée, afin que vous puissiez facilement l'intégrer à votre site Web ou votre application et mettre à jour les traductions en temps réel.",
+    "index.untranslated_yet": "Entrez votre email ici",
+    "index.placeholder": "L'éditeur a des validations qui sont appliquées pour chaque chaîne enregistrée. Essayez de traduire cette chaîne sans l' %s et vous verrez.",
+    "appstore.app.title": "Lokalise",
+    "appstore.app.keywords": "localisation d'applications, localisation iOS, gestion de chaînes, outil de gestion de traduction d'applications, localisation Android",
+    "index.blabla": "Si vous avez traduit toutes les chaînes précédentes jusqu'à présent, cela devrait suffire à vous donner une idée du fonctionnement de l'éditeur. Droite? :)",
+    "main.cool": "Cette chaîne appartient à iOS, mais vous pouvez lier d'autres plates-formes en un seul clic!",
+    "app.login.pass": "Mot de passe",
+    "appstore.app.whatsnew": "- Ajout du support pour de nombreuses langues\n - maintenant beaucoup plus frais qu'avant\n - le meilleur outil de gestion des traductions du marché",
+    "app.users.active": {
+        "one": "",
+        "other": ""
+    },
+    "index.welcome": "Bienvenue",
+    "main.country_copy": "Choisissez le pays",
+    "main.country": "Choisissez le pays",
+    "appstore.app.keywords2": "localisation d'applications, localisation iOS, gestion de chaînes, outil de gestion de traduction d'applications, localisation Android",
+    "add.new.string": "Ajouter une nouvelle chaîne"
+}
