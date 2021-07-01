@@ -1,20 +1,77 @@
 {
-    "appstore.app.description": "Lokalise is a free service, that lets you manage and edit strings and translations of your app, game or website – either on your own or with a team of collaborators. Built for developers, Lokalise includes original features like export webhooks and custom archive bundle structure, so you can easily integrate it with your website or app and update translations in real time.",
-    "index.untranslated_yet": "Enter your email here",
-    "index.placeholder": "The editor has validations that are applied for every string that is saved. Try to translate this string without the %s placeholder and you will see.",
-    "appstore.app.title": "Lokalise",
-    "appstore.app.keywords": "app localization, ios localization, string management, app translation management tool, android localisation",
-    "index.blabla": "If you have translated all the previous strings so far, it should be enough to give you an idea on how the editor works. Right? :)",
-    "main.cool": "This string belongs to iOS, however you can link other platforms with a single click!",
-    "app.login.pass": "Password",
-    "appstore.app.whatsnew": "- added support for many languages\n- now much cooler than before\n- the best translation management tool on the market",
-    "app.users.active": {
-        "one": "Just one user online",
-        "other": "There are %d users online"
+    "key5": {
+        "translation": "Try all features for 14 days · No credit card required"
     },
-    "index.welcome": "Welcome",
-    "main.country_copy": "Select Country",
-    "main.country": "Select country",
-    "appstore.app.keywords2": "app localization, ios localization, string management, app translation management tool, android localisation",
-    "add.new.string": "Add a new string"
+    "key18": {
+        "translation": "Log In"
+    },
+    "key1": {
+        "translation": "30"
+    },
+    "key29": {
+        "translation": "•••••••••••••"
+    },
+    "key21": {
+        "translation": "Sign Up with Google"
+    },
+    "key22": {
+        "translation": "E-mail"
+    },
+    "key7": {
+        "translation": "Try it free"
+    },
+    "key2": {
+        "translation": "Our goal is to eliminate the hassle of localization by providing tools to automate, integrate, and better manage your translations. Lokalise is a better way for growth-minded businesses to expand their mobile apps, games, software or digital content into multiple languages."
+    },
+    "key28": {
+        "translation": "Password"
+    },
+    "key10": {
+        "translation": "Log In with Google"
+    },
+    "key3": {
+        "translation": "Meet Lokalise"
+    },
+    "key14": {
+        "translation": "john@better.com"
+    },
+    "key11": {
+        "translation": "Log in with SSO"
+    },
+    "key17": {
+        "translation": "Sign Up"
+    },
+    "key24": {
+        "translation": "Or sign up with your email "
+    },
+    "key25": {
+        "translation": "Full name"
+    },
+    "key8": {
+        "translation": "Whether it’s your cloud file storage, task management, or communication tools, integrate Lokalise with thousands of other apps on Zapier to automate your workflow."
+    },
+    "key20": {
+        "translation": "Looking to join an existing team instead? Log In"
+    },
+    "key26": {
+        "translation": "Better"
+    },
+    "key23": {
+        "translation": "better@lokalise.com"
+    },
+    "key9": {
+        "translation": "Lokalise integration \u2028for Zapier"
+    },
+    "key4": {
+        "translation": "Connect with more than 1,000 apps"
+    },
+    "key6": {
+        "translation": "Book a demo"
+    },
+    "key13": {
+        "translation": "Username"
+    },
+    "key27": {
+        "translation": "By signing up, you accept our <u>Terms of Service<\/u> and <u>Privacy Policy<\/u>."
+    }
 }
