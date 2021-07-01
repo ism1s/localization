@@ -1,0 +1,50 @@
+{
+    "appstore.app.description": {
+        "translation": ""
+    },
+    "index.untranslated_yet": {
+        "translation": ""
+    },
+    "index.placeholder": {
+        "translation": ""
+    },
+    "appstore.app.title": {
+        "translation": ""
+    },
+    "appstore.app.keywords": {
+        "translation": ""
+    },
+    "index.blabla": {
+        "translation": ""
+    },
+    "main.cool": {
+        "translation": "Diese Zeichenfolge gehört zu iOS, Sie können jedoch mit einem einzigen Klick andere Plattformen verknüpfen!"
+    },
+    "app.login.pass": {
+        "translation": "Passwort"
+    },
+    "appstore.app.whatsnew": {
+        "translation": "- Unterstützung für viele Sprachen hinzugefügt\n - jetzt viel cooler als vorher\n - das beste Übersetzungsmanagement-Tool auf dem Markt"
+    },
+    "app.users.active": {
+        "translation": {
+            "one": "",
+            "other": ""
+        }
+    },
+    "index.welcome": {
+        "translation": "Herzlich willkommen"
+    },
+    "main.country_copy": {
+        "translation": "Land auswählen"
+    },
+    "main.country": {
+        "translation": "Land auswählen"
+    },
+    "appstore.app.keywords2": {
+        "translation": "App-Lokalisierung, iOS-Lokalisierung, Stringverwaltung, App-Übersetzungsverwaltungstool, Android-Lokalisierung"
+    },
+    "add.new.string": {
+        "translation": "Füge eine neue Zeichenfolge hinzu"
+    }
+}
