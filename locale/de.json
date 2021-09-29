@@ -1,77 +1,27 @@
 {
-    "key5": {
-        "translation": "Testen Sie alle Funktionen 14 Tage lang · Keine Kreditkarte erforderlich"
-    },
-    "key18": {
-        "translation": "Einloggen"
-    },
-    "key1": {
-        "translation": "30"
-    },
-    "key29": {
-        "translation": "•••••••••••••"
-    },
-    "key21": {
-        "translation": "Melden Sie sich bei Google an"
-    },
-    "key22": {
-        "translation": "Email"
-    },
-    "key7": {
-        "translation": "Versuchen Sie es kostenlos"
-    },
-    "key2": {
-        "translation": "Unser Ziel ist es, den Aufwand der Lokalisierung zu beseitigen, indem wir Tools zur Automatisierung, Integration und besseren Verwaltung Ihrer Übersetzungen bereitstellen. Lokalise ist eine bessere Möglichkeit für wachstumsorientierte Unternehmen, ihre mobilen Apps, Spiele, Software oder digitalen Inhalte in mehrere Sprachen zu erweitern."
-    },
-    "key28": {
-        "translation": "Passwort"
-    },
-    "key10": {
-        "translation": "Mit Google anmelden"
-    },
-    "key3": {
-        "translation": "Treffen Sie Lokalise"
-    },
-    "key14": {
-        "translation": "john@better.com"
-    },
-    "key11": {
-        "translation": "Mit SSO anmelden"
-    },
-    "key17": {
-        "translation": "Anmeldung"
-    },
-    "key24": {
-        "translation": "Oder melde dich mit deiner E-Mail an"
-    },
-    "key25": {
-        "translation": "Vollständiger Name"
-    },
-    "key8": {
-        "translation": "Ob Cloud-Dateispeicher, Aufgabenverwaltung oder Kommunikationstools, Integrieren Sie Lokalise mit Tausenden anderer Apps auf Zapier, um Ihren Workflow zu automatisieren."
-    },
-    "key20": {
-        "translation": "Möchten Sie stattdessen einem bestehenden Team beitreten? Einloggen"
-    },
-    "key26": {
-        "translation": "Besser"
-    },
-    "key23": {
-        "translation": "better@lokalise.com"
-    },
-    "key9": {
-        "translation": "Lokalise-Integration für Zapier"
-    },
-    "key4": {
-        "translation": "Verbinden Sie sich mit mehr als 1.000 Apps"
-    },
-    "key6": {
-        "translation": "Buchen Sie eine Demo"
-    },
-    "key13": {
-        "translation": "Nutzername"
-    },
-    "key27": {
-        "translation": "Mit der Anmeldung akzeptieren Sie unsere <u> Nutzungsbedingungen <\/u> und <u> Datenschutzrichtlinie <\/u> ."
-    }
+    "key5": "Testen Sie alle Funktionen 14 Tage lang · Keine Kreditkarte erforderlich",
+    "key18": "Einloggen",
+    "key1": "30",
+    "key29": "",
+    "key21": "Melden Sie sich bei Google an",
+    "key22": "Email",
+    "key7": "Versuchen Sie es kostenlos",
+    "key2": "Unser Ziel ist es, den Aufwand der Lokalisierung zu beseitigen, indem wir Tools zur Automatisierung, Integration und besseren Verwaltung Ihrer Übersetzungen bereitstellen. Lokalise ist eine bessere Möglichkeit für wachstumsorientierte Unternehmen, ihre mobilen Apps, Spiele, Software oder digitalen Inhalte in mehrere Sprachen zu erweitern.",
+    "key28": "Passwort",
+    "key10": "Mit Google anmelden",
+    "key3": "Treffen Sie Lokalise",
+    "key14": "john@better.com",
+    "key11": "Mit SSO anmelden",
+    "key17": "Anmeldung",
+    "key24": "Oder melde dich mit deiner E-Mail an",
+    "key25": "Vollständiger Name",
+    "key8": "Ob Cloud-Dateispeicher, Aufgabenverwaltung oder Kommunikationstools, Integrieren Sie Lokalise mit Tausenden anderer Apps auf Zapier, um Ihren Workflow zu automatisieren.",
+    "key20": "Möchten Sie stattdessen einem bestehenden Team beitreten? Einloggen",
+    "key26": "Besser",
+    "key23": "better@lokalise.com",
+    "key9": "Lokalise-Integration für Zapier",
+    "key4": "Verbinden Sie sich mit mehr als 1.000 Apps",
+    "key6": "Buchen Sie eine Demo",
+    "key13": "Nutzername",
+    "key27": "By signing up, you accept our Terms of Service and Privacy Policy"
 }
