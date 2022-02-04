@@ -1,0 +1,89 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: lokalise.com\n"
+"Project-Id-Version: Demo for Bipi\n"
+"PO-Revision-Date: 2022-02-04 11:47\n"
+"Last-Translator: lokalise.com\n"
+"Language-Team: lokalise.com\n\n"
+"Language: es\n"
+
+msgid "key5"
+msgstr "Pruebe todas las funciones durante 14 días · No se requiere tarjeta de crédito"
+
+msgid "key18"
+msgstr "Iniciar sesión"
+
+msgid "extra_KEY_ADDED"
+msgstr "Inicia sesión ahora"
+
+msgid "key1"
+msgstr "30"
+
+msgid "key29"
+msgstr "•••••••••••••"
+
+msgid "key21"
+msgstr "Registrarse con Google"
+
+msgid "key22"
+msgstr "Correo electrónico"
+
+msgid "key7"
+msgstr "Pruébalo gratis"
+
+msgid "key2"
+msgstr "Nuestro objetivo es eliminar la molestia de la localización proporcionando herramientas para automatizar, integrar y gestionar mejor sus traducciones. Lokalise es una mejor manera para que las empresas con mentalidad de crecimiento expandan sus aplicaciones móviles, juegos, software o contenido digital a varios idiomas."
+
+msgid "key28"
+msgstr "Contraseña"
+
+msgid "key10"
+msgstr "Iniciar sesión con Google"
+
+msgid "key3"
+msgstr "Conoce a Lokalise"
+
+msgid "key14"
+msgstr "john@better.com"
+
+msgid "key11"
+msgstr "Iniciar sesión con SSO"
+
+msgid "key17"
+msgstr "Inscribirse"
+
+msgid "key24"
+msgstr "O regístrate con tu correo electrónico"
+
+msgid "key25"
+msgstr "Nombre completo"
+
+msgid "key8"
+msgstr "Ya sea su almacenamiento de archivos en la nube, administración de tareas o herramientas de comunicación, integre Lokalise con miles de otras aplicaciones en Zapier para automatizar su flujo de trabajo."
+
+msgid "key20"
+msgstr "¿Quiere unirse a un equipo existente en su lugar? Iniciar sesión"
+
+msgid "key26"
+msgstr "Mejor"
+
+msgid "key23"
+msgstr "better@lokalise.com"
+
+msgid "key9"
+msgstr "Integración de Lokalise para Zapier"
+
+msgid "key4"
+msgstr "Conéctese con más de 1,000 aplicaciones"
+
+msgid "key6"
+msgstr "Reserve una demostración"
+
+msgid "key13"
+msgstr "Nombre de usuario"
+
+msgid "key27"
+msgstr "Al registrarse, acepta nuestras <u> Condiciones de servicio </u> y <u> Política de privacidad.</u>"
