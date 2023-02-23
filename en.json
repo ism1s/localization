@@ -5,6 +5,9 @@
     "test_key": {
         "translation": "this is random test key – modified at 12:33pm"
     },
+    "auto-pull test": {
+        "translation": "auto-pull test"
+    },
     "key18": {
         "translation": "Log In"
     },
